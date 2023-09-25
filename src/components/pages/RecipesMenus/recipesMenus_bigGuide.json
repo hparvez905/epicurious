@@ -1,0 +1,42 @@
+[
+   {
+      "id": 1,
+      "title": "One Sauce for Two Dinners Is the Kind of Cooking Math We Love",
+      "img": "https://assets.epicurious.com/photos/61e1e6655bc241c4207af264/16:9/w_1920,c_limit/CacciatoreBakedPasta_HERO_012322_26036.jpg",
+      "category": "SAUCE",
+      "author": "MATTHEW ZURAS",
+      "date": "February 1, 2022",
+      "innerSubTitle": "For these recipes you’ll make a double batch of a base sauce. Use half for one dish and then turn the remainder into a radically different meal the following night.",
+      "description": "Contrary to common wisdom, two is not always better than one. A duo of dueling squirrels raising hell on your window ledge? Nah. Two literal goblins haunting your basement? Thanks, we’re fine with just the one.\nBut plenty of other things are simply better in pairs, including shoes, turtle doves, and recipes that have the magical ability to become two related but totally distinct dinners. As folks in the beauty industry say of eyebrows: They’re sisters not twins.\nThat’s our concept for this quartet (or octet, really) of as-you-like-it dinner options that aren’t exactly meal prepping but just happen to accomplish the same goal. You’ll start with a double batch of a base sauce; use half for one dish, and then turn the remainder into a radically different meal the following night. Take Epi associate food editor Rachel Gurjar’s umami-rich miso–butternut squash soup as an example. It’s easy enough to prepare postwork on a weeknight or during a lazy weekend day—simply cook cubed butternut squash with shallot, garlic, and ginger, along with some sweet white miso and a dash of maple syrup, and blend it into a bright orange, silky smooth soup."
+   },
+   {
+      "id": 2,
+      "title": "One-Pot Spiced Shrimp and Rice",
+      "img": "https://assets.epicurious.com/photos/61e1e672e467d7696097606d/1:1/w_1920,c_limit/CacciatoreShrimpandRice_RECIPE_012322_25999.jpg",
+      "category": "Recipes",
+      "author": "KENDRA VACULIN",
+      "date": "January 24, 2022",
+      "innerSubTitle": "",
+      "description": ""
+   },
+   {
+      "id": 3,
+      "title": "Paneer-Stuffed Peppers",
+      "img": "https://assets.epicurious.com/photos/61e1e69dca762417d65ec311/1:1/w_1920,c_limit/PaneerStuffedPeppers_RECIPE_012322_26146.jpg",
+      "category": "Recipes",
+      "author": "Rachel Gurjar",
+      "date": "January 21, 2022",
+      "innerSubTitle": "",
+      "description": ""
+   },
+   {
+      "id": 4,
+      "title": "Toasted Tomato-Paneer Sandwiches",
+      "img": "https://assets.epicurious.com/photos/61e1e6a267a96f29d95fc231/1:1/w_1920,c_limit/TomatoPaneerSandwich_RECIPE_012322_26158.jpg",
+      "category": "Recipes",
+      "author": "Rachel Gurjar",
+      "date": "January 21, 2022",
+      "innerSubTitle": "",
+      "description": ""
+   }
+]
